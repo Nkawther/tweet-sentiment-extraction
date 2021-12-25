@@ -68,3 +68,13 @@ We have used different models (citer les modèles) that give different results f
 ![ConfusionMatrix](ConfusionMatrix.PNG)
 
 ### Observations (removing stop word)
+
+                            precision    recall  f1-score   support
+
+           -1               0.65      0.62      0.64       426
+            0               0.65      0.66      0.66       647
+            1               0.73      0.75      0.74       478
+
+        accuracy                                0.68      1551
+        macro avg           0.68      0.68      0.68      1551
+        weighted avg        0.68      0.68      0.68      1551
